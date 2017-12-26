@@ -1,2 +1,2 @@
 # lima-collab-bucket
-just bucket
+just a bucket
